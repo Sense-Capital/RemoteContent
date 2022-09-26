@@ -32,16 +32,6 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - ServerContent
-  - m_GUID: 16d0973c6e82b6142a80c5fb32ae39c9
-    m_Address: CubeScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: d230613f40fbbc747ae27234377c0f3f
-    m_Address: SphereScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
