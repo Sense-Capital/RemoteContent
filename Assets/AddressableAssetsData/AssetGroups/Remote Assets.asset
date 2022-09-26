@@ -50,6 +50,10 @@ MonoBehaviour:
     m_Address: Blue
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: b4d9e39d272ebd548b065c6d4eaabc0e
+    m_Address: SphereScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
