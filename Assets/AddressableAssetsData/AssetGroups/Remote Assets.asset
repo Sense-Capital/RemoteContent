@@ -22,13 +22,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - ServerContent
+  - m_GUID: b4d9e39d272ebd548b065c6d4eaabc0e
+    m_Address: SphereScene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ServerContent
   - m_GUID: 16d0973c6e82b6142a80c5fb32ae39c9
     m_Address: CubeScene
     m_ReadOnly: 0
     m_SerializedLabels:
     - ServerContent
-  - m_GUID: b4d9e39d272ebd548b065c6d4eaabc0e
-    m_Address: SphereScene
+  - m_GUID: 6979d40c3becbcc44b658c547d85a918
+    m_Address: Level
     m_ReadOnly: 0
     m_SerializedLabels:
     - ServerContent
