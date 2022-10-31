@@ -32,6 +32,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - ServerContent
+  - m_GUID: 157292de8665f3b4291c26a86b348e16
+    m_Address: Dynamic scene test
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ServerContent
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
