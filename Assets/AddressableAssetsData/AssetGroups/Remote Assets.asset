@@ -17,21 +17,10 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 25d47a7d2eab56447bdd8e657b9061cf
   m_SerializeEntries:
-  - m_GUID: df858f94d05745141b14c97c56eec5b7
-    m_Address: Sphere
+  - m_GUID: 39be7eb4d27077748900233c3d87a0af
+    m_Address: Hall_newyear_modeler
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 6979d40c3becbcc44b658c547d85a918
-    m_Address: Level
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
-  - m_GUID: 448423af1b6c5b241ba5ff6bd9075c99
-    m_Address: BottleLiquid
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - ServerContent
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
