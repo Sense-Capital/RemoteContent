@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: catalog_Sense
+  m_overridePlayerVersion: Sense
   m_GroupAssets:
   - {fileID: 11400000, guid: 9b3308232fd384b4d8076fbacf1dbb3f, type: 2}
   - {fileID: 11400000, guid: a7990fd5b30b3af4fbd20ccaa9170126, type: 2}
@@ -78,7 +78,7 @@ MonoBehaviour:
       - m_Id: 1490192308303bb49814914b54d3728f
         m_Value: ServerData/RemoteContent/StaticSceneObjects/[BuildTarget]
       - m_Id: 6968f6c93a0f47c4c8ff0c04e0ce0400
-        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/RemoteContent/StaticSceneObjects/[BuildTarget]
+        m_Value: https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 41a656fd82f7fbd418adb865b4dd3d10
       m_Name: BuildTarget
