@@ -33,6 +33,14 @@ MonoBehaviour:
     m_Address: mandarin
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 45dcd0142efe21542b58100636e60cea
+    m_Address: elka_small
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4dfc4001d7babc64da31e8564051a9db
+    m_Address: torshere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
