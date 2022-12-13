@@ -17,8 +17,20 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 25d47a7d2eab56447bdd8e657b9061cf
   m_SerializeEntries:
-  - m_GUID: 39be7eb4d27077748900233c3d87a0af
-    m_Address: Hall_newyear_modeler
+  - m_GUID: 10636ed55e6cb594eb15dbe554898911
+    m_Address: candle_small
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d378968898ff4c4aa048ba48ab607ae
+    m_Address: elka
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a41f9cc3eaf60384eb1f4d88cc258bda
+    m_Address: lamp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd2c63d6122cc884bb23489bc61562bc
+    m_Address: mandarin
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
