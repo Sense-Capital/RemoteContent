@@ -41,6 +41,10 @@ MonoBehaviour:
     m_Address: torshere
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: 69bd06250002b374cbad54521d8bad67
+    m_Address: gifts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
