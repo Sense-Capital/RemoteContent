@@ -1,17 +1,17 @@
 [
-    {
-        "RerositoryUrl": "https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
-        "ObjectType": 2,
-        "ObjectKey": "1mandarin",
-        "X": -2.84,
-        "Y": 1.32,
-        "Z": -0.1,
-        "Xr": 90,
-        "Yr": 0,
-        "Zr": -90,
-        "Xs": 30,
-        "Ys": 30,
-        "Zs": 30
+   {
+	"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
+	"ObjectType":2,
+	"ObjectKey":"WomanWithMandarin",
+	"X":-2.96,
+	"Y":0.019,
+	"Z":0.1465788,
+	"Xr":0,
+	"Yr":96.905,
+	"Zr":0,
+	"Xs":1,
+	"Ys":1,
+	"Zs":1
     },
     {
         "RerositoryUrl": "https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
