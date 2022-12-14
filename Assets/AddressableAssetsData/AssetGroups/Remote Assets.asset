@@ -53,6 +53,14 @@ MonoBehaviour:
     m_Address: 3mandarin
     m_ReadOnly: 0
     m_SerializedLabels: []
+  - m_GUID: edb0ad6f8f47b0d4e9f73c67dfe559ac
+    m_Address: pillows
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8658136d27c22fb4e9a843163add885d
+    m_Address: star
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 754c919522df78c4eaf7b9bc6abac5cf, type: 2}
   m_SchemaSet:
