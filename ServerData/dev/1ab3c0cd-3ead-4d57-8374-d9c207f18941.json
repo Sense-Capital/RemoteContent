@@ -1,8 +1,7 @@
-[
-{"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
+[{"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"candle_small",
-"X":6.87,"Y":0.795,"Z":5.08,"Xr":0,"Yr":180,"Zr":0,"Xs":10,"Ys":10,"Zs":10}
+"X":6.87,"Y":0.795,"Z":5.08,"Xr":0,"Yr":180,"Zr":0,"Xs":10,"Ys":10,"Zs":10},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
@@ -22,12 +21,12 @@
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"gifts",
-"X":5.5,"Y":0.263,"Z":9,"Xr":0,"Yr":170,"Zr":0,"Xs":1,"Ys":1,"Zs":1}
+"X":5.5,"Y":0.263,"Z":9,"Xr":0,"Yr":170,"Zr":0,"Xs":1,"Ys":1,"Zs":1},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"candle_small",
-"X":2.9,"Y":0.688,"Z":4.4,"Xr":0,"Yr":-140,"Zr":0,"Xs":7,"Ys":7,"Zs":7}
+"X":2.9,"Y":0.688,"Z":4.4,"Xr":0,"Yr":-140,"Zr":0,"Xs":7,"Ys":7,"Zs":7},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
