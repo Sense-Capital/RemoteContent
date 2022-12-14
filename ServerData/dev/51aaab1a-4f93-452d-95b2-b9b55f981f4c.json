@@ -180,5 +180,19 @@
         "Xs": 50,
         "Ys": 50,
         "Zs": 50
+    },
+    {
+	"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
+	"ObjectType":2,
+	"ObjectKey":"mandarin",
+	"X":1.4,
+	"Y":1.54,
+	"Z":4.1,
+	"Xr":90,
+	"Yr":0,
+	"Zr":-90,
+	"Xs":30,
+	"Ys":30,
+	"Zs":30
     }
 ]
