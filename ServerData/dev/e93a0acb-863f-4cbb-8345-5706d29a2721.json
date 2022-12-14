@@ -186,15 +186,15 @@
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
-"ObjectKey":"1mandarin",
-"X":2.21,"Y":1.37,"Z":24.63,"Xr":-90,"Yr":0,"Zr":-90,"Xs":30,"Ys":30,"Zs":30},
-
-{"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
-"ObjectType":2,
 "ObjectKey":"pillows",
 "X":12.78,"Y":0.48,"Z":45.24,"Xr":0,"Yr":115,"Zr":0,"Xs":0.7,"Ys":0.7,"Zs":0.7},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"pillows",
-"X":-10.76,"Y":0.48,"Z":44.77,"Xr":0,"Yr":160,"Zr":0,"Xs":0.7,"Ys":0.7,"Zs":0.7}]
+"X":-10.76,"Y":0.48,"Z":44.77,"Xr":0,"Yr":160,"Zr":0,"Xs":0.7,"Ys":0.7,"Zs":0.7},
+
+{"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
+"ObjectType":2,
+"ObjectKey":"WomanWithMandarin",
+"X":2.43347,"Y":0.078,"Z":24.81288,"Xr":0,"Yr":170.788,"Zr":0,"Xs":1,"Ys":1,"Zs":1},]
