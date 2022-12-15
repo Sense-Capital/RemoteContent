@@ -6,12 +6,12 @@
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"lamp",
-"X":7.05,"Y":0.95,"Z":5.1,"Xr":-90,"Yr":-180,"Zr":0,"Xs":10,"Ys":10,"Zs":10},
+"X":7.05,"Y":0.927,"Z":5.1,"Xr":-90,"Yr":-180,"Zr":0,"Xs":10,"Ys":10,"Zs":10},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
 "ObjectKey":"elka_figure",
-"X":7,"Y":1,"Z":2.89,"Xr":-90,"Yr":0,"Zr":0,"Xs":50,"Ys":50,"Zs":50},
+"X":7,"Y":0.97,"Z":2.89,"Xr":-90,"Yr":0,"Zr":0,"Xs":50,"Ys":50,"Zs":50},
 
 {"RerositoryUrl":"https://sense-capital.github.io/RemoteContent/ServerData/StaticSceneObjects/catalog_Sense.json",
 "ObjectType":2,
