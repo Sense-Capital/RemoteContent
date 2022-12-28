@@ -17,56 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 25d47a7d2eab56447bdd8e657b9061cf
   m_SerializeEntries:
-  - m_GUID: 10636ed55e6cb594eb15dbe554898911
-    m_Address: candle_small
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 4d378968898ff4c4aa048ba48ab607ae
-    m_Address: elka_figure
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: a41f9cc3eaf60384eb1f4d88cc258bda
-    m_Address: lamp
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: dd2c63d6122cc884bb23489bc61562bc
-    m_Address: 1mandarin
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 45dcd0142efe21542b58100636e60cea
-    m_Address: elka_small
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 4dfc4001d7babc64da31e8564051a9db
-    m_Address: torshere
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 69bd06250002b374cbad54521d8bad67
-    m_Address: gifts
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 046315ccd3ddf064e986fd8301a89812
-    m_Address: 2mandarin
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 600df25dac261f145824d59c4a753f53
-    m_Address: 3mandarin
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: edb0ad6f8f47b0d4e9f73c67dfe559ac
-    m_Address: pillows
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 8658136d27c22fb4e9a843163add885d
-    m_Address: star
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 5c8d7660afbd24145b0a6518fdc18663
-    m_Address: WomanAtTheReception
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 781b61b7c8f4cc2488b3489db8a7aad8
-    m_Address: WomanWithMandarin
+  - m_GUID: 6b7248f2eb6061f419ad94d34ced9226
+    m_Address: Meeting_small_remote
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
